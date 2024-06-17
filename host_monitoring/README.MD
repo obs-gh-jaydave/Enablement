@@ -1,0 +1,1 @@
+Instructions are within [Notion](https://www.notion.so/observeinc/Field-Sandbox-Host-Monitoring-705a103552c741bb846f2f06262d7aef?pvs=4)

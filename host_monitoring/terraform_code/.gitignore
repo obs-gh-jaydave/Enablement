@@ -1,7 +1,6 @@
 *.pub
 .terraform/
 observe_key_pair
-*.tf
 *.tfvars
 *.tfstate
 *.tfstate.backup
